@@ -1,0 +1,10 @@
+// Set Actions
+export const SET_LOADING = "SET_LOADING";
+export const SET_ERROR = "SET_ERROR";
+export const SET_IS_AUTH = "SET_IS_AUTH";
+export const SET_USER = "SET_USER";
+export const SET_FRIEND_LIST = "SET_FRIEND_LIST";
+export const SET_FRIEND_REQUEST_LIST = "SET_FRIEND_REQUEST_LIST";
+export const SET_SUGGESTION_LIST = "SET_SUGGESTION_LIST";
+export const SET_ADD_FRIEND_LIST = "SET_ADD_FRIEND_LIST";
+export const SET_SUGGESTION_TIME_STAMP = "SET_SUGGESTION_TIME_STAMP";
